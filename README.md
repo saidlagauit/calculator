@@ -1,4 +1,4 @@
-# Simple Calculator Project
+# Simple Calculator
 
 This is a simple calculator project built using Ruby, JavaScript, and CSS. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
